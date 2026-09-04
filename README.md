@@ -98,6 +98,22 @@ The SQL script creates and populates the RaceDay database using Microsoft SQL Se
 
 ---
 
+## Video Presentation
+
+The Part 1 video presentation demonstrates and explains:
+
+1. The purpose of the RaceDay system.
+2. The Organiser role.
+3. The Participant role.
+4. The ERD and database relationships.
+5. The database design decisions.
+6. The RESTful API endpoint plan.
+7. The SQL database structure.
+8. The SQL script running successfully in SSMS.
+
+### YouTube Presentation
+
+**YouTube Video:** https://youtu.be/WzSAIiT8X4Y
 ## API Endpoint Planning
 
 The RESTful API was planned during Part 1 before API implementation.
