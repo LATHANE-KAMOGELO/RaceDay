@@ -4,7 +4,7 @@
 
 RaceDay is a web-based event management system designed specifically for the South African road running, walking and cycling community.
 
-The system allows Event Organisers** to create and manage events, categories and route information, view participant enrolments and capture race results. **Participants** can create accounts, browse upcoming events, enter events by selecting a category, view their own enrolments and track their personal performance history.
+The system allows Event Organisers** to create and manage events, categories and route information, view participant enrolments and capture race results. Participants can create accounts, browse upcoming events, enter events by selecting a category, view their own enrolments and track their personal performance history.
 
 The Part 1 design provides the database and REST API foundation required for Parts 2 and 3. Live weather information is planned as an external service integration and does not require a separate database entity in the Part 1 relational model.
 
