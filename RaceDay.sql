@@ -3,7 +3,7 @@ BEGIN
     CREATE DATABASE RaceDayDB;
 END
 GO
-
+ 
 USE RaceDayDB;
 GO
 
