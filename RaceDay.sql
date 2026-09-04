@@ -305,7 +305,7 @@ INSERT INTO dbo.Enrolments
     EventID,
     CategoryID,
     EnrolmentDate
-)
+) 
 VALUES
 (3, 1, 2, '2026-08-20'),
 (4, 1, 2, '2026-08-21'),
