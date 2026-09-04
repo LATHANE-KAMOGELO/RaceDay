@@ -121,6 +121,8 @@ The presentation should demonstrate and explain:
 - The SQL script running successfully in SSMS.
 
 **YouTube:** LINK.
+https://youtu.be/WzSAIiT8X4Y
+
 
 ## Part 1 Submission Checklist
 
