@@ -1,5 +1,5 @@
 # RaceDay – API Endpoint Plan
-
+ 
 ## Purpose 
 This document defines the planned RESTful API for RaceDay before Part 2 implementation. The implementation should closely follow this plan.
 
