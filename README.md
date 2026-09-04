@@ -120,7 +120,7 @@ The presentation should demonstrate and explain:
 - The SQL database script.
 - The SQL script running successfully in SSMS.
 
-**YouTube:** TODO – paste the unlisted Part 1 YouTube URL here.
+**YouTube:** LINK.
 
 ## Part 1 Submission Checklist
 
@@ -139,7 +139,7 @@ The presentation should demonstrate and explain:
 
 ## Project Structure
 
-```text
+
 RaceDay/
 │
 ├── docs/
@@ -152,8 +152,6 @@ RaceDay/
 │       └── docs-check.yml
 │
 └── README.md
-```
-
 ## Part 1 Status
 
 **Planning and database phase:** In progress
